@@ -8,7 +8,8 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title:
+      "Your Vision, My Priority Delivering Tailored Solutions to Meet Your Needs. ",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -18,7 +19,8 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title:
+      "I adapt swiftly to project requirements, ensuring efficient and innovative solutions.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -38,7 +40,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Front-End Developer Driven by Innovation and Precision.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -49,7 +51,8 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title:
+      "Developing an Advanced JavaScript Animation Library to Elevate User Interactions",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,16 +75,16 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "E-commerce Platform",
+    des: "Developed a fully responsive, high-performance e-commerce platform using React and Tailwind CSS. Integrated a dynamic product catalog, shopping cart functionality, and optimized for fast load times. Implemented user authentication and custom checkout process.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "/ui.earth.com",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Portfolio Website Optimization",
+    des: "Improved a portfolio website’s loading performance by 60% using Next.js, code-splitting, and server-side rendering. Refined the user experience with engaging animations, floating labels, and custom forms.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
@@ -107,33 +110,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with AmirMahdi was a game changer. He not only built a fantastic website for our brand, but his insights into web performance helped us drastically reduce our bounce rate and increase conversions.",
+    name: "Ali Hashemi",
+    title: "Director of TCM Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with AmirMahdi was a game changer. He not only built a fantastic website for our brand, but his insights into web performance helped us drastically reduce our bounce rate and increase conversions.",
+    name: "Ali Hashemi",
+    title: "Director of TCM Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with AmirMahdi was a game changer. He not only built a fantastic website for our brand, but his insights into web performance helped us drastically reduce our bounce rate and increase conversions.",
+    name: "Ali Hashemi",
+    title: "Director of TCM Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with AmirMahdi was a game changer. He not only built a fantastic website for our brand, but his insights into web performance helped us drastically reduce our bounce rate and increase conversions.",
+    name: "Ali Hashemi",
+    title: "Director of TCM Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with AmirMahdi was a game changer. He not only built a fantastic website for our brand, but his insights into web performance helped us drastically reduce our bounce rate and increase conversions.",
+    name: "Ali Hashemi",
+    title: "Director of TCM Technologies",
   },
 ];
 
@@ -174,7 +177,7 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    desc: "Assisted in the development of a web-based platform using React.js,next.js,redux,typescript for 3 month",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
